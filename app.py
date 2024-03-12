@@ -1,7 +1,8 @@
 import os
 
 restaurantes = [{'nome':'Praça', 'Categoria':'Japonesa', 'ativo':False},
-                {'nome':'Pizza Suprema', 'Categoria':'Pizza', 'ativo':True},{'nome':'Cantina', 'Categoria':'Italiano', 'ativo':False}]
+                {'nome':'Pizza Suprema', 'Categoria':'Pizza', 'ativo':True},
+                {'nome':'Cantina', 'Categoria':'Italiano', 'ativo':False}]
 
 
 def exibir_nome_do_programa():
