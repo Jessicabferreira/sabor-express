@@ -1,6 +1,6 @@
 # Sabor Express
 
-Curso Python da Alura!
+## Curso Python da Alura!
 
 Praticando:
 
